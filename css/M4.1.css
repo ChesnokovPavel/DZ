@@ -1,0 +1,38 @@
+.zagolovok{
+	font-size: 60px; 
+	font-family: 'Times New Roman', Times, serif;
+}
+.w{
+	font-size: 30px; 
+	font-family: 'Times New Roman', Times, serif;
+	text-indent: 1.5em;
+}
+.q{
+	font-size: 30px; 
+	font-family: 'Times New Roman', Times, serif;
+	line-height: 150%;
+}
+.red{
+	color: red;
+}
+.bold{
+	font-weight: bold;
+}
+.background{
+	background: yellow;
+}
+.weight{
+	font-size: 40px;
+}
+.style{
+	font-style: italic;
+}
+.weight1{
+	font-size: 60px;
+}
+.underline{
+	text-decoration: underline;
+}
+.line{
+	text-decoration: line-through;
+}
